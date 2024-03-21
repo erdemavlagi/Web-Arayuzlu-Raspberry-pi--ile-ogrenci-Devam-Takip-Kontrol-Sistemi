@@ -14,4 +14,4 @@ $db->set_charset("utf8"); // Türkçe karakter sorunu olmaması için utf8'e çe
 
 <!--Bağlanırken sql kodtrol edilmelidir.  -->
 
-
+<!--  -->

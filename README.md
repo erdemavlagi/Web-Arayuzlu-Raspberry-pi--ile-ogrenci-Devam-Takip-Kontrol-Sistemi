@@ -1,6 +1,6 @@
 # Yüksek Lisans Projesi 
 ## Raspberry Pi ile web uygulamalı öğrenci devam kontrol sistemi 
-### Proje Dokuz Eylül Üniversitesi İkdisadi ve İdari Bilimler Fakültesinde kullanılmaktadır. 
+### Proje Dokuz Eylül Üniversitesi İktisadi ve İdari Bilimler Fakültesinde kullanılmaktadır. 
 ### Web sitesi https://ybsodks.com.tr/ uygulama aktifdir
 ---
 **Öğrenciler kartlarını kart okuyucuya okutarak yoklama sisteminde kayıtları gözükmektedir.** 
